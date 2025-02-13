@@ -13,14 +13,12 @@
 .headingSecondary {
     color: #1cb4ff;
 }
-
-.imgage{
+img {
     border-radius: 30px;
 }
-.footer {
+footer {
     background-color: #1c43ff;
     color: #fff;
     padding: 40px;
     margin-top: 40px;
 }
-
